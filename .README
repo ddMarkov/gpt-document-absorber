@@ -1,0 +1,3 @@
+environment var with the openai api key is needed
+it is to be set before running
+therefor create .env file containing the api key and use python-dotenv package
